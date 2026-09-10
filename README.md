@@ -41,7 +41,7 @@ Good moments to run it:
 
 Open a new chat in Claude and paste this in:
 
-> Please install this Claude skill for me. The SKILL.md file lives in this GitHub repo: [repo URL]
+> Please install this Claude skill for me. The SKILL.md file lives in this GitHub repo: https://github.com/sanketbhor/claude-skills-token-audit
 >
 > Set it up so I can start using it. Walk me through anything you need from me.
 
